@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drum Pad Beat Loom</string>
+    <string name="template_stub">template stub</string>
+
+    <string name="brand_top">TEMPO STUDIO</string>
+    <string name="brand_main">BEAT LOOM</string>
+    <string name="splash_subtitle">WEAVE YOUR RHYTHM</string>
+    <string name="splash_loading">LOADING PADS</string>
+    <string name="cd_logo">Beat Loom logo</string>
+
+    <string name="voice_kick">KICK</string>
+    <string name="voice_snare">SNARE</string>
+    <string name="voice_hat">HAT</string>
+    <string name="voice_clap">CLAP</string>
+    <string name="voice_tom">TOM</string>
+    <string name="voice_rim">RIM</string>
+
+    <string name="cd_pad">%1$s pad, step %2$d</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="style_boom_bap">BOOM BAP</string>
+    <string name="style_house_four">HOUSE FOUR</string>
+    <string name="style_afro_swing">AFRO SWING</string>
+    <string name="style_trap_hats">TRAP HATS</string>
+    <string name="style_latin_clave">LATIN CLAVE</string>
+    <string name="style_drum_and_bass">DRUM AND BASS</string>
+
+    <string name="lesson_subdivisions_title">SUBDIVISIONS</string>
+    <string name="lesson_subdivisions_body">Every bar holds 16 steps. Hit every fourth step to lock the pulse, then split the gaps to double the speed.</string>
+    <string name="lesson_swing_title">SWING</string>
+    <string name="lesson_swing_body">Push the off beat a little late. The loop starts to breathe and the groove leans forward instead of marching.</string>
+    <string name="lesson_syncopation_title">SYNCOPATION</string>
+    <string name="lesson_syncopation_body">Leave the strong beat empty and place the hit just before it. The ear fills the silence and the loop pulls ahead.</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="listen">LISTEN</string>
+    <string name="yours">MY LOOP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="end_round">END ROUND</string>
+    <string name="menu_hint">LISTEN · REBUILD · WEAVE THE LOOP</string>
+    <string name="next_loop">NEXT LOOP</string>
+    <string name="loop_title">%1$s · LOOP %2$d</string>
+    <string name="loops_solved">LOOPS SOLVED %1$d / %2$d</string>
+    <string name="stat_ear_score">EAR SCORE</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_solved">SOLVED</string>
+    <string name="stat_total_loops">TOTAL LOOPS</string>
+    <string name="stat_chapters">CHAPTERS</string>
+    <string name="chapter_progress">%1$d / %2$d</string>
+    <string name="chapter_locked">PRACTICE TO UNLOCK</string>
+    <string name="cd_chapter_sprite">Rhythm style mark</string>
+    <string name="cd_next_sprite">Next loop mark</string>
+    <string name="cd_studio_mark">Studio mark</string>
+    <string name="cd_stop">Stop playback</string>
+    <string name="game_tries">TRIES %1$d</string>
+    <string name="game_target">TARGET</string>
+    <string name="game_yours">MINE</string>
+    <string name="game_hint">TAP THE PADS · MATCH WHAT YOU HEAR</string>
+    <string name="game_back">Back to menu</string>
+    <string name="result_solved">LOOP SOLVED</string>
+    <string name="result_missed">ROUND OVER</string>
+    <string name="result_rows">%1$d / %2$d ROWS WOVEN</string>
+    <string name="result_hint">WEAVE EVERY ROW TO LOCK THE LOOP</string>
+    <string name="result_tries">TRIES USED</string>
+</resources>
